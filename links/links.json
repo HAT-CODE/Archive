@@ -1,0 +1,18 @@
+    {
+    "[UPC]": {
+     "[Ubisoft]": {
+         "Hungry_Shark_World_Standard_Edition": "aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzh2a2o2bDZ0eGo3ZGs2MS9IVW5ncnlTaGFya1dvcmxkLnJhci9maWxl",
+         "Hungry_Shark_World_Standard_Edition_Mod": "aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL24yemZ6ZDltNjRtbXJjZy9IN041UjYtJTI0SDRSSy1XMDRMRC1NMEQucmFyL2ZpbGU="
+     },
+    "[GLFT]": {
+     "[Gameloft]": {
+         "Gangstar_New_Orleans": "none",
+
+
+     "[COMMENT]": {
+         "_comment": "Powershell_Command_B64DECODE: [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('BASE_64'))"
+    }
+   }
+  }
+ }
+}
